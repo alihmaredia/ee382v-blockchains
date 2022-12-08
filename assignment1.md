@@ -4,7 +4,7 @@ Name    : Ali Maredia
 Email   : ali.maredia@utexas.edu  
 Discord : alihmaredia  
 
-## Transaction Sumamry
+## Transaction Summary
 
 **Funding Transaction**  
 txid: 78752ed4b9e0294d0255d0270ff304499ffc2842d2425540acc39024d4c48ae7    
