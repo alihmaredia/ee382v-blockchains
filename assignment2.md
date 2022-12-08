@@ -29,7 +29,7 @@ OP_EQUAL   # Hmmm, -0 is not possible in Script Wiz but confirmed with supertest
 
 ## Result
 
-The `OP_EQUAL` result should evaluate to true, because in Script Wiz, -0 = 0. In a sense, -0 is not possible in Script Wiz while it is 0x80 in Bitcoin Script.
+The `OP_EQUAL` result should evaluate to true, because in Script Wiz, -0 = 0. In a sense, -0 is not possible in Script Wiz while -0 is 0x80 in Bitcoin Script.
 
 ## Resources
 
